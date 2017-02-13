@@ -1,4 +1,0 @@
-<?php
-return array(
-    'pluginName1','pluginName2','pluginName3'
-);

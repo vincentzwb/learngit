@@ -1,2 +1,0 @@
-<?php
-WFTEnvHelper::addCommonForms();
