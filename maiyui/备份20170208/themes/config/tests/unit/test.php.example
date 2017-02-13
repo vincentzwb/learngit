@@ -1,0 +1,19 @@
+<?php
+
+class esko_test extends CTestCase{
+    
+    public function testEsko(){
+        $word=1;
+        $this->assertTrue(1==2); 
+        
+        
+    }
+    public function testEsko2(){
+        $word=1;
+        $this->assertTrue(3==2);
+
+
+    }
+    
+}
+
